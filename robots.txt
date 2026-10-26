@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maskywg.github.io/urban-stitching-taipei-20261027/sitemap.xml
